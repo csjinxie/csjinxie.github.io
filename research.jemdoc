@@ -1,0 +1,54 @@
+# jemdoc: menu{MENU}{index.html} 
+==Jin Xie 谢晋 
+
+~~~
+{}{img_left}{image/xiejin.jpg}{alt text}{140}{155}
+Professor,\n [http://cs.njust.edu.cn/  Computer Science and Engineering Department], \n[http://www.njust.edu.cn  Nanjing University of Science and Technology]\n
+Xiaolingwei Street 200, Xuanwu District \n
+Nanjing, China \n 
+Phone: \+86  025-84315017-4069 \n
+Email: /csjxie/ \[@\] njust \[DOT\] edu \[DOT\] cn
+~~~
+
+== About me
+I am currently a professor, [http://www.njust.edu.cn Nanjing University of Science and Technology], China. I was a research scientist in the Department of Electrical and Computer Engineering, [https://nyuad.nyu.edu/en/ New York University Abu Dhabi] and [https://engineering.nyu.edu/ New York University Tandon School of Engineering]. I did my Ph.D study in the Department of Computing, [https://www.polyu.edu.hk/ Hong Kong Polytechnic University], under the supervision of Prof. [http://www4.comp.polyu.edu.hk/~cslzhang/ Lei Zhang].
+  
+
+== Research
+My research interests fall in the areas of machine learning, computer vision, computer graphics and robotic control. I focus on the research of 2D computer vision (image matching, image segmentation and object detection, etc) and 3D computer vision (3D shape analysis, 3D scene segmentation, 3D object detection and 3D object reconstruction, etc). My recent focus is on the topics of 3D representation with deep learning and 3D scene analysis with learned 3D representation. I am also very interested in cosntructing and analyzing 3D models from 2D images and videos. \n
+
+*Real-time image segmentation and detection*
+~~~
+{}{img_left}{image/lanedetection.gif}{alt text}{300}{150}
+Lane and road marking detection is a key step in autonomous driving assistance systems. It is necessary to develop real-time lane detection, road marking segmentation and depth estimation algorithms. It is desirable to develop a unified framework to consist of the three modules. Therefore, how to develop effecient real-time image segmentation and detection algorithms in the multi-task framework is a challenging problem. Also, designing lightweight networks is very important.\n
+ \n
+ \n
+ \n
+ \n
+ \n
+~~~
+
+*Deep learning based 3D feature representation* 
+~~~
+{}{img_left}{image/3Dfeature.png}{alt text}{300}{150}
+Different from 2D image data, 3D geometry data such as point clouds and meshes, are irregular. Therefore, it is difficult to apply CNNs to extract local and global features of 3D data. In order to exploit geometric structures of 3D data, developing effecient and interpretable 3D network structures is very necessary. \n
+~~~
+
+*Semi-supervised/weakly-supervised large-scale 3D scene segmentation*
+~~~
+{}{img_left}{image/IROS20.png}{alt text}{300}{170}
+Point cloud semantic segmentation is a challenging problem in large-scale 3D scene understanding.  Particularly, the number of point clouds in some real scenes  can often reach the order of the magnitude to millions. Manually labelling such large point clouds is time-consuming and infeasible.  Therefore, it is necessary to develop semi-supervised large-scale 3D point cloud segmentation algorithms. \n
+~~~
+
+*3D object generation and reconstruction*
+~~~
+{}{img_left}{image/ECCV20.png}{alt text}{300}{170}
+we propose an effective point cloud generation method, which can generate multi-resolution point clouds of the same shape from a latent vector. Specifically, we develop a novel progressive deconvolution network with the learning-based bilateral interpolation. The learning-based bilateral interpolation is performed in the spatial and feature spaces of point clouds so that local geometric structure information of point clouds can be exploited. In order to keep the shapes of different resolutions of point clouds consistent, we train the point cloud deconvolution generation network with a shape-preserving adversarial loss. \n
+~~~
+
+~~~
+{}{img_left}{image/CVPR20-1.gif}{alt text}{300}{170}
+Existing sequential 3D human shape estimation methods mainly focus on the template model fitting from a sequence of
+depth images or the parametric model regression from a sequence of RGB images. We propose a sequential 3D human pose and shape estimation framework from a sequence of point clouds. Specifically, the proposed framework can regress 3D coordinates of mesh vertices at different resolutions from the latent features of point clouds. Based on the estimated 3D coordinates and features at the low resolution, we also develop a spatial-temporal
+mesh attention convolution (MAC) to predict the 3D coordinates of mesh vertices at the high resolution. \n
+~~~

@@ -1,0 +1,34 @@
+# jemdoc: menu{MENU}{index.html} 
+==Jin Xie 谢晋 
+
+~~~
+{}{img_left}{image/xiejin.jpg}{alt text}{140}{155}
+Professor,\n [http://cs.njust.edu.cn/  Computer Science and Engineering Department], \n[http://www.njust.edu.cn  Nanjing University of Science and Technology]\n
+Xiaolingwei Street 200, Xuanwu District \n
+Nanjing, China \n 
+Phone: \+86  025-84315017-4069 \n
+Email: /csjxie/ \[@\] njust \[DOT\] edu \[DOT\] cn
+~~~
+
+== About me
+I am currently a professor, [http://www.njust.edu.cn Nanjing University of Science and Technology], China. I was a research scientist in the Department of Electrical and Computer Engineering, [https://nyuad.nyu.edu/en/ New York University Abu Dhabi] and [https://engineering.nyu.edu/ New York University Tandon School of Engineering]. I did my Ph.D study in the Department of Computing, [https://www.polyu.edu.hk/ Hong Kong Polytechnic University], under the supervision of Prof. [http://www4.comp.polyu.edu.hk/~cslzhang/ Lei Zhang].
+  
+
+== Research
+My research interests include 
+- Image Analysis  
+- 3D Computer Vision 
+- Machine Learning
+- Robotic control
+
+[research.html Find out more]
+
+== Recent Publications 
+. Le Hui, Rui Xu, *Jin Xie*, Jianjun Qian and Jian Yang, \"Progressive Point Cloud Deconvolution Generation Network\",  ECCV 2020. \[[https://arxiv.org/pdf/2007.05361.pdf arxiv]\]  \[[https://arxiv.org/pdf/2007.05361.pdf code]\] 
+. Mingmei Cheng, Le Hui, *Jin Xie*, Jian Yang and Hui Kong, \"Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation\",  IROS 2020. \[[https://arxiv.org/pdf/2007.15488.pdf arxiv]\]  \[[https://arxiv.org/pdf/2007.05361.pdf code]\] 
+. Kangkan Wang, *Jin Xie*, Guofeng Zhang, Lei Liu and Jian Yang, \"Sequential 3D Human Pose and Shape Estimation From Point Clouds\", CVPR 2020. \[[https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Sequential_3D_Human_Pose_and_Shape_Estimation_From_Point_Clouds_CVPR_2020_paper.pdf pdf] \]  \[[https://arxiv.org/pdf/2007.05361.pdf code]\] 
+
+
+[publications.html Full list of publications]
+
+

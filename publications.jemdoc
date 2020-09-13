@@ -1,0 +1,183 @@
+# jemdoc: menu{MENU}{index.html}  
+==Jin Xie 谢晋 
+
+~~~
+{}{img_left}{image/xiejin.jpg}{alt text}{140}{155}
+Professor,\n [http://cs.njust.edu.cn/  Computer Science and Engineering Department], \n[http://www.njust.edu.cn  Nanjing University of Science and Technology]\n
+Xiaolingwei Street 200, Xuanwu District \n
+Nanjing, China \n 
+Phone: \+86  025-84315017-4069 \n
+Email: /csjxie/ \[@\] njust \[DOT\] edu \[DOT\] cn
+~~~
+
+== About me
+I am currently a professor, [http://www.njust.edu.cn Nanjing University of Science and Technology], China. I was a research scientist in the Department of Electrical and Computer Engineering, [https://nyuad.nyu.edu/en/ New York University Abu Dhabi] and [https://engineering.nyu.edu/ New York University Tandon School of Engineering]. I did my Ph.D study in the Department of Computing, [https://www.polyu.edu.hk/ Hong Kong Polytechnic University], under the supervision of Prof. [http://www4.comp.polyu.edu.hk/~cslzhang/ Lei Zhang].
+  
+
+== Publications 
+Conference
+
+~~~
+{}{img_left}{image/ECCV20.png}{alt text}{290}{130}
+{{<font color=blue size=+0.5><b>}} Progressive Point Cloud Deconvolution Generation Network {{</b></font>}} \n  European Conference on Computer Vision, ECCV 2020
+\n Le Hui, Rui Xu, *Jin Xie*, Jianjun Qian and Jian Yang \n \[[https://arxiv.org/pdf/2007.05361 arxiv]\]  
+~~~
+
+~~~
+{}{img_left}{image/IROS20.png}{alt text}{290}{150}
+{{<font color=blue size=+0.5><b>}} Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation {{</b></font>}} \n  International Conference on Intelligent Robots and Systems, IROS 2020
+\n Mingmei Cheng, Le Hui, *Jin Xie*, Jian Yang and Hui Kong \n \[[https://arxiv.org/pdf/2007.15488 arxiv]\]  
+~~~
+
+~~~
+{}{img_left}{image/CVPR20.gif}{alt text}{290}{120}
+{{<font color=blue size=+0.5><b>}} Sequential 3D Human Pose and Shape Estimation From Point Clouds {{</b></font>}} \n  IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2020 
+\n Kangkan Wang, *Jin Xie*, Guofeng Zhang, Lei Liu and Jian Yang \n \[[https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Sequential_3D_Human_Pose_and_Shape_Estimation_From_Point_Clouds_CVPR_2020_paper.html pdf]\]  
+~~~
+
+
+~~~
+{}{img_left}{image/CVPR19.png}{alt text}{300}{130}
+{{<font color=blue size=+0.5><b>}} Deep Sketch-shape Hashing With Segmented 3D Stochastic Viewing {{</b></font>}} \n  IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2019 
+\n Jiaxin Chen, Jie Qin, Fan Zhu, Li Liu, Fumin Shen, *Jin Xie* and Ling Shao \n \[[https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Deep_Sketch-Shape_Hashing_With_Segmented_3D_Stochastic_Viewing_CVPR_2019_paper.pdf pdf]\] 
+~~~
+
+~~~
+{}{img_left}{image/ACMMM18-1.png}{alt text}{300}{130}
+{{<font color=blue size=+0.5><b>}} Learning to Synthesize 3D Indoor Scenes from Monocular Images {{</b></font>}} \n  ACM Conference on Multimedia, ACM MM 2018 
+\n Fan Zhu, Li Liu, *Jin Xie*, Ling Shao and Yi Fang \n \[[https://dl.acm.org/doi/pdf/10.1145/3240508.3240700 pdf]\] 
+~~~
+
+
+~~~
+{}{img_left}{image/IJCAI18-1.png}{alt text}{300}{130}
+{{<font color=blue size=+0.5><b>}} Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning {{</b></font>}} \n  International Joint Conference on Artificial Intelligence, IJCAI 2018 
+\n Guoxian Dai, *Jin Xie* and Yi Fang \n \[[https://www.ijcai.org/Proceedings/2018/0093.pdf pdf]\] 
+~~~
+
+~~~
+{}{img_left}{image/AAAI18.png}{alt text}{300}{130}
+{{<font color=blue size=+0.5><b>}} Learning Adversarial 3D Model Generation with 2D Image Enhancer {{</b></font>}} \n  AAAI Conference on Artificial Intelligence, AAAI 2018 
+\n Jing Zhu, *Jin Xie* and Yi Fang \n \[[pdf/AAAI18.pdf pdf]\] 
+~~~
+
+~~~
+{}{img_left}{image/ACMMM17.png}{alt text}{300}{130}
+{{<font color=blue size=+0.5><b>}} Metric-based Generative Adversarial Network {{</b></font>}} \n  ACM Conference on Multimedia, ACM MM 2017 
+\n Guoxian Dai, *Jin Xie* and Yi Fang \n \[[https://dl.acm.org/doi/pdf/10.1145/3123266.3123334 pdf]\] 
+~~~
+
+~~~
+{}{img_left}{image/CVPR17.png}{alt text}{320}{170}
+{{<font color=blue size=+0.5><b>}}Learning Barycentric Representations of 3D Shapes for Sketch-Based 3D Shape Retrieval {{</b></font>}} \n  IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2017 
+\n *Jin Xie*, Guoxian Dai, Fan Zhu and Yi Fang \n \[[https://openaccess.thecvf.com/content_cvpr_2017/papers/Xie_Learning_Barycentric_Representations_CVPR_2017_paper.pdf pdf]\] 
+~~~
+
+~~~
+{}{img_left}{image/AAAI17.png}{alt text}{300}{130}
+{{<font color=blue size=+0.5><b>}} Deep Correlation Learning for Sketch Based 3D Shape Retrieval {{</b></font>}} \n  AAAI Conference on Artificial Intelligence, AAAI 2017 
+\n Guoxian Dai, *Jin Xie*, Fan Zhu and Yi Fang \n \[[pdf/AAAI17.pdf  pdf]\] 
+~~~
+
+~~~
+{}{img_left}{image/CVPR16.png}{alt text}{300}{130}
+{{<font color=blue size=+0.5><b>}} Learned Binary Spectral Shape Descriptor for 3D Shape Correspondence {{</b></font>}} \n  IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2016 
+\n *Jin Xie*, Meng Wang and Yi Fang \n \[[https://openaccess.thecvf.com/content_cvpr_2016/papers/Xie_Learned_Binary_Spectral_CVPR_2016_paper.pdf pdf]\] 
+~~~
+
+
+~~~
+{}{img_left}{image/ECCV16-1.png}{alt text}{300}{150}
+{{<font color=blue size=+0.5><b>}} Heat Diffusion Long-short Term Memory Learning for 3D Shape Analysis {{</b></font>}} \n  European Conference on Computer Vision, ECCV 2016
+\n Fan Zhu, *Jin Xie* and Yi Fang \n \[[https://link.springer.com/content/pdf/10.1007%2F978-3-319-46478-7_19.pdf pdf]\]  
+~~~
+
+~~~
+{}{img_left}{image/AAAI16-1.png}{alt text}{300}{130}
+{{<font color=blue size=+0.5><b>}} Learning Cross-domain Neural Networks for Sketch-based 3D Shape Retrieval {{</b></font>}} \n  AAAI Conference on Artificial Intelligence, AAAI 2016
+\n Fan Zhu, *Jin Xie* and Yi Fang \n \[[pdf/AAAI16.pdf pdf]\] 
+~~~
+
+~~~
+{}{img_left}{image/CVPR15-1.png}{alt text}{330}{190}
+{{<font color=blue size=+0.5><b>}} Deepshape:Deep Learned Shape Descriptor for 3D Shape Matching and Retrieval {{</b></font>}} \n  IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2015 
+\n *Jin Xie*, Yi Fang, Fan Zhu and Edward K.Wong \n \[[https://openaccess.thecvf.com/content_cvpr_2015/papers/Xie_DeepShape_Deep_Learned_2015_CVPR_paper.pdf pdf]\] 
+~~~
+
+~~~
+{}{img_left}{image/ACMMM15-1.png}{alt text}{300}{150}
+{{<font color=blue size=+0.5><b>}} Progressive Shape-distribution-encoder for 3D Shape Retrieval {{</b></font>}} \n  ACM Conference on Multimedia, ACM MM 2015 
+\n *Jin Xie*, Fan Zhu and Yi Fang \n \[[https://dl.acm.org/doi/pdf/10.1145/2733373.2806308 pdf]\] 
+~~~
+
+~~~
+{}{img_left}{image/CVPR15-F.png}{alt text}{300}{130}
+{{<font color=blue size=+0.5><b>}} 3D Deep Shape Descriptor {{</b></font>}} \n  IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2015 
+\n Yi Fang, *Jin Xie*, Guoxian Dai, Meng Wang, Fan Zhu, Tiantian Xu and Edward K.Wong \n \[[https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Fang_3D_Deep_Shape_2015_CVPR_paper.pdf pdf]\] 
+~~~
+
+~~~
+{}{img_left}{image/ICIP.png}{alt text}{300}{150}
+{{<font color=blue size=+0.5><b>}} Texture Classification via Patch-based Sparse Texton Learning {{</b></font>}} \n  International Conference on Image Processing, ICIP 2010 
+\n *Jin Xie*, Lei Zhang, Jane You and David Zhang \n \[[pdf/ICIP.pdf pdf]\] 
+~~~
+
+Journal
+
+~~~
+{}{img_left}{image/AAAI17.png}{alt text}{300}{150}
+{{<font color=blue size=+0.5><b>}} Deep Correlated Holistic Metric Learning for Sketch-based 3D Shape Retrieval {{</b></font>}} \n  IEEE Trans. on Image Processing, 7(27), 3374-3386, 2018
+\n Guoxian Dai, *Jin Xie* and Yi Fang \n   \[[pdf/TIP18.pdf pdf]\]
+~~~
+
+~~~
+{}{img_left}{image/TMM18-1.png}{alt text}{330}{180}
+{{<font color=blue size=+0.5><b>}} Deep Multi-metric Learning for Shape-based 3D Model Retrieval   {{</b></font>}} \n  IEEE Trans. on Multimedia, 19(11), 2463-2474, 2017
+\n *Jin Xie*, Guoxian Dai and Yi Fang\n \[[pdf/TMM18.pdf pdf]\] 
+~~~
+
+~~~
+{}{img_left}{image/Tcyber18-1.png}{alt text}{300}{190}
+{{<font color=blue size=+0.5><b>}} Deep Non-linear Metric Learning for 3D Shape Retrieval     {{</b></font>}} \n IEEE Trans. on Cybernetics, 48（1), 412-422, 2018
+\n *Jin Xie*, Guoxian Dai, Fan Zhu, Ling Shao and Yi Fang \n \[[pdf/Tcyber18.pdf pdf]\] 
+~~~
+
+
+~~~
+{}{img_left}{image/TPAMI17.png}{alt text}{330}{190}
+{{<font color=blue size=+0.5><b>}} Deepshape:Deep-learned Shape Descriptor for 3D Shape Retrieval      {{</b></font>}} \n  IEEE Trans. on Pattern Analysis and Machine Intelligence, 39(7), 1335-1345, 2017
+\n *Jin Xie*, Guoxian Dai, Fan Zhu, Edward K.Wong and Yi Fang \n \[[pdf/TPAMI17.pdf pdf]\] 
+~~~
+
+~~~
+{}{img_left}{image/ACMMM15-1.png}{alt text}{300}{130}
+{{<font color=blue size=+0.5><b>}} Progressive Shape-distribution-encoder for Learning 3D Representation      {{</b></font>}} \n IEEE Trans. on Image Processing, 26(3), 1231-1242, 2017
+\n *Jin Xie*, Fan Zhu, Guoxian Dai, Ling Shao and Yi Fang \n \[[pdf/TIP17.pdf pdf]\] 
+~~~
+
+
+~~~
+{}{img_left}{image/IVC-1.gif}{alt text}{300}{150}
+{{<font color=blue size=+0.5><b>}} Dynamic Texture Recognition with Video Set Based Collaborative Representation     {{</b></font>}} \n Image and Vision Computing, 55(2), 86-92, 2017
+\n *Jin Xie* and Yi Fang \n \[[pdf/IVC17.pdf pdf]\] 
+~~~
+
+~~~
+{}{img_left}{image/PR.png}{alt text}{300}{150}
+{{<font color=blue size=+0.5><b>}} Effective Texture Classification by Texton Encoding Induced Statistical Features    {{</b></font>}} \n Pattern Recognition, 48(2), 447-457, 2015
+\n *Jin Xie*, Lei Zhang, Jane You and Simon Shiu \n \[[pdf/PR15.pdf pdf]\] 
+~~~
+
+
+~~~
+{}{img_left}{image/TIFS-1.png}{alt text}{300}{130}
+{{<font color=blue size=+0.5><b>}} An Effective Method for Detecting Double JPEG Compression with The Same Quantization Matrix    {{</b></font>}} \n IEEE Trans. Information Forensics and Security, 9(11), 1933-1942, 2014
+\n Jianquan Yang--, *Jin Xie--*, Guopu Zhu, Sam Kwong and Yunqing Shi (--: Equal contribution) \n  \[[pdf/TIFS14.pdf pdf]\] 
+~~~
+
+
+~~~
+{}{img_left}{image/Sensor.png}{alt text}{300}{130}
+{{<font color=blue size=+0.5><b>}} A Study of Hand Back Skin Texture Pattern for Person Identification and Gender Classification    {{</b></font>}} \n Sensors, 2012
+\n *Jin Xie*, Lei Zhang, Jane You, David Zhang and Xiaofeng Qu \n \[[pdf/sensors12.pdf pdf]\] 
+~~~
