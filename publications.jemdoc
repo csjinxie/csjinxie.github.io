@@ -11,7 +11,7 @@ Email: /csjxie/ \[@\] njust \[DOT\] edu \[DOT\] cn
 ~~~
 
 == About me
-I am currently a professor, [http://www.njust.edu.cn Nanjing University of Science and Technology], China. I was a research scientist in the Department of Electrical and Computer Engineering, [https://nyuad.nyu.edu/en/ New York University Abu Dhabi] and [https://engineering.nyu.edu/ New York University Tandon School of Engineering]. I did my Ph.D study in the Department of Computing, [https://www.polyu.edu.hk/ Hong Kong Polytechnic University], under the supervision of Prof. [http://www4.comp.polyu.edu.hk/~cslzhang/ Lei Zhang].
+I am currently a professor, [http://www.njust.edu.cn Nanjing University of Science and Technology], China. I was a research scientist in the Department of Electrical and Computer Engineering, [https://nyuad.nyu.edu/en/ New York University Abu Dhabi] and [https://engineering.nyu.edu/ New York University Tandon School of Engineering]. I did my Ph.D study in the Department of Computing, [https://www.polyu.edu.hk/ Hong Kong Polytechnic University], under the supervision of Prof. [http://www4.comp.polyu.edu.hk/~cslzhang/ Lei Zhang]. Here is my full [pdf/cv.pdf  CV].
   
 
 == Publications 
@@ -39,7 +39,7 @@ Conference
 ~~~
 {}{img_left}{image/CVPR19.png}{alt text}{300}{130}
 {{<font color=blue size=+0.5><b>}} Deep Sketch-shape Hashing With Segmented 3D Stochastic Viewing {{</b></font>}} \n  IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2019 
-\n Jiaxin Chen, Jie Qin, Fan Zhu, Li Liu, Fumin Shen, *Jin Xie* and Ling Shao \n \[[https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Deep_Sketch-Shape_Hashing_With_Segmented_3D_Stochastic_Viewing_CVPR_2019_paper.pdf pdf]\] 
+\n Jiaxin Chen, Jie Qin, Fan Zhu, Li Liu, Fumin Shen, *Jin Xie* and Ling Shao \n \[[https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Deep_Sketch-Shape_Hashing_With_Segmented_3D_Stochastic_Viewing_CVPR_2019_paper.pdf pdf]\]  
 ~~~
 
 ~~~
@@ -101,7 +101,7 @@ Conference
 ~~~
 {}{img_left}{image/CVPR15-1.png}{alt text}{330}{190}
 {{<font color=blue size=+0.5><b>}} Deepshape:Deep Learned Shape Descriptor for 3D Shape Matching and Retrieval {{</b></font>}} \n  IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2015 
-\n *Jin Xie*, Yi Fang, Fan Zhu and Edward K.Wong \n \[[https://openaccess.thecvf.com/content_cvpr_2015/papers/Xie_DeepShape_Deep_Learned_2015_CVPR_paper.pdf pdf]\] 
+\n *Jin Xie*, Yi Fang, Fan Zhu and Edward K.Wong \n \[[https://openaccess.thecvf.com/content_cvpr_2015/papers/Xie_DeepShape_Deep_Learned_2015_CVPR_paper.pdf pdf]\]  
 ~~~
 
 ~~~
@@ -127,7 +127,7 @@ Journal
 ~~~
 {}{img_left}{image/AAAI17.png}{alt text}{300}{150}
 {{<font color=blue size=+0.5><b>}} Deep Correlated Holistic Metric Learning for Sketch-based 3D Shape Retrieval {{</b></font>}} \n  IEEE Trans. on Image Processing, 7(27), 3374-3386, 2018
-\n Guoxian Dai, *Jin Xie* and Yi Fang \n   \[[pdf/TIP18.pdf pdf]\]
+\n Guoxian Dai, *Jin Xie* and Yi Fang \n   \[[pdf/TIP18.pdf pdf]\]   
 ~~~
 
 ~~~
@@ -159,20 +159,20 @@ Journal
 ~~~
 {}{img_left}{image/IVC-1.gif}{alt text}{300}{150}
 {{<font color=blue size=+0.5><b>}} Dynamic Texture Recognition with Video Set Based Collaborative Representation     {{</b></font>}} \n Image and Vision Computing, 55(2), 86-92, 2017
-\n *Jin Xie* and Yi Fang \n \[[pdf/IVC17.pdf pdf]\] 
+\n *Jin Xie* and Yi Fang \n \[[pdf/IVC17.pdf pdf]\]  
 ~~~
 
 ~~~
 {}{img_left}{image/PR.png}{alt text}{300}{150}
 {{<font color=blue size=+0.5><b>}} Effective Texture Classification by Texton Encoding Induced Statistical Features    {{</b></font>}} \n Pattern Recognition, 48(2), 447-457, 2015
-\n *Jin Xie*, Lei Zhang, Jane You and Simon Shiu \n \[[pdf/PR15.pdf pdf]\] 
+\n *Jin Xie*, Lei Zhang, Jane You and Simon Shiu \n \[[pdf/PR15.pdf pdf]\]   
 ~~~
 
 
 ~~~
 {}{img_left}{image/TIFS-1.png}{alt text}{300}{130}
 {{<font color=blue size=+0.5><b>}} An Effective Method for Detecting Double JPEG Compression with The Same Quantization Matrix    {{</b></font>}} \n IEEE Trans. Information Forensics and Security, 9(11), 1933-1942, 2014
-\n Jianquan Yang--, *Jin Xie--*, Guopu Zhu, Sam Kwong and Yunqing Shi (--: Equal contribution) \n  \[[pdf/TIFS14.pdf pdf]\] 
+\n Jianquan Yang--, *Jin Xie--*, Guopu Zhu, Sam Kwong and Yunqing Shi (--: Equal contribution) \n  \[[pdf/TIFS14.pdf pdf]\]  
 ~~~
 
 

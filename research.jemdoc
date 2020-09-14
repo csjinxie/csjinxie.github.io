@@ -11,16 +11,16 @@ Email: /csjxie/ \[@\] njust \[DOT\] edu \[DOT\] cn
 ~~~
 
 == About me
-I am currently a professor, [http://www.njust.edu.cn Nanjing University of Science and Technology], China. I was a research scientist in the Department of Electrical and Computer Engineering, [https://nyuad.nyu.edu/en/ New York University Abu Dhabi] and [https://engineering.nyu.edu/ New York University Tandon School of Engineering]. I did my Ph.D study in the Department of Computing, [https://www.polyu.edu.hk/ Hong Kong Polytechnic University], under the supervision of Prof. [http://www4.comp.polyu.edu.hk/~cslzhang/ Lei Zhang].
+I am currently a professor, [http://www.njust.edu.cn Nanjing University of Science and Technology], China. I was a research scientist in the Department of Electrical and Computer Engineering, [https://nyuad.nyu.edu/en/ New York University Abu Dhabi] and [https://engineering.nyu.edu/ New York University Tandon School of Engineering]. I did my Ph.D study in the Department of Computing, [https://www.polyu.edu.hk/ Hong Kong Polytechnic University], under the supervision of Prof. [http://www4.comp.polyu.edu.hk/~cslzhang/ Lei Zhang]. Here is my full [pdf/cv.pdf  CV].
   
 
 == Research
-My research interests fall in the areas of machine learning, computer vision, computer graphics and robotic control. I focus on the research of 2D computer vision (image matching, image segmentation and object detection, etc) and 3D computer vision (3D shape analysis, 3D scene segmentation, 3D object detection and 3D object reconstruction, etc). My recent focus is on the topics of 3D representation with deep learning and 3D scene analysis with learned 3D representation. I am also very interested in cosntructing and analyzing 3D models from 2D images and videos. \n
+My research interests fall in the areas of machine learning, computer vision, computer graphics and robotic control. I focus on the research of 2D computer vision (image matching, image segmentation and object detection, etc) and 3D computer vision (3D shape analysis, 3D scene segmentation, 3D object detection and 3D object reconstruction, etc). My recent focus is on the topics of 3D representation with deep learning and 3D scene analysis with learned 3D representation. I am also very interested in constructing and analyzing 3D models from 2D images and videos. \n
 
 *Real-time image segmentation and detection*
 ~~~
 {}{img_left}{image/lanedetection.gif}{alt text}{300}{150}
-Lane and road marking detection is a key step in autonomous driving assistance systems. It is necessary to develop real-time lane detection, road marking segmentation and depth estimation algorithms. It is desirable to develop a unified framework to consist of the three modules. Therefore, how to develop effecient real-time image segmentation and detection algorithms in the multi-task framework is a challenging problem. Also, designing lightweight networks is very important.\n
+Lane and road marking detection is a key step in autonomous driving assistance systems. It is necessary to develop real-time lane detection, road marking segmentation and depth estimation algorithms. It is desirable to develop a unified framework to consist of the three modules. Therefore, how to develop efficient real-time image segmentation and detection algorithms in the multi-task framework is a challenging problem. Also, designing lightweight networks is very important.\n
  \n
  \n
  \n
@@ -31,7 +31,7 @@ Lane and road marking detection is a key step in autonomous driving assistance s
 *Deep learning based 3D feature representation* 
 ~~~
 {}{img_left}{image/3Dfeature.png}{alt text}{300}{150}
-Different from 2D image data, 3D geometry data such as point clouds and meshes, are irregular. Therefore, it is difficult to apply CNNs to extract local and global features of 3D data. In order to exploit geometric structures of 3D data, developing effecient and interpretable 3D network structures is very necessary. \n
+Different from 2D image data, 3D geometry data such as point clouds and meshes, are irregular. Therefore, it is difficult to apply CNNs to extract local and global features of 3D data. In order to exploit geometric structures of 3D data, developing efficient and interpretable 3D network structures is very necessary. \n
 ~~~
 
 *Semi-supervised/weakly-supervised large-scale 3D scene segmentation*
