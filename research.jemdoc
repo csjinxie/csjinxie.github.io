@@ -43,7 +43,7 @@ Point cloud semantic segmentation is a challenging problem in large-scale 3D sce
 *3D object generation and reconstruction*
 ~~~
 {}{img_left}{image/ECCV20.png}{alt text}{300}{170}
-we propose an effective point cloud generation method, which can generate multi-resolution point clouds of the same shape from a latent vector. Specifically, we develop a novel progressive deconvolution network with the learning-based bilateral interpolation. The learning-based bilateral interpolation is performed in the spatial and feature spaces of point clouds so that local geometric structure information of point clouds can be exploited. In order to keep the shapes of different resolutions of point clouds consistent, we train the point cloud deconvolution generation network with a shape-preserving adversarial loss. \n
+We propose an effective point cloud generation method, which can generate multi-resolution point clouds of the same shape from a latent vector. Specifically, we develop a novel progressive deconvolution network with the learning-based bilateral interpolation. The learning-based bilateral interpolation is performed in the spatial and feature spaces of point clouds so that local geometric structure information of point clouds can be exploited. In order to keep the shapes of different resolutions of point clouds consistent, we train the point cloud deconvolution generation network with a shape-preserving adversarial loss. \n
 ~~~
 
 ~~~
