@@ -24,8 +24,8 @@ My research interests include
 [research.html Find out more]
 
 == Recent Publications 
-. Le Hui, Rui Xu, *Jin Xie*, Jianjun Qian and Jian Yang, \"Progressive Point Cloud Deconvolution Generation Network\",  ECCV 2020. \[[https://arxiv.org/pdf/2007.05361.pdf arxiv]\]  \[[https://arxiv.org/pdf/2007.05361.pdf code]\] 
-. Mingmei Cheng, Le Hui, *Jin Xie*, Jian Yang and Hui Kong, \"Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation\",  IROS 2020. \[[https://arxiv.org/pdf/2007.15488.pdf arxiv]\]  \[[https://arxiv.org/pdf/2007.05361.pdf code]\] 
+. Le Hui, Rui Xu, *Jin Xie*, Jianjun Qian and Jian Yang, \"Progressive Point Cloud Deconvolution Generation Network\",  ECCV 2020. \[[https://arxiv.org/pdf/2007.05361.pdf arxiv]\]  \[[https://github.com/fpthink/PDGN code]\] 
+. Mingmei Cheng, Le Hui, *Jin Xie*, Jian Yang and Hui Kong, \"Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation\",  IROS 2020. \[[https://arxiv.org/pdf/2007.15488.pdf arxiv]\]  \[[https://github.com/MMCheng/PointNL code]\] 
 . Kangkan Wang, *Jin Xie*, Guofeng Zhang, Lei Liu and Jian Yang, \"Sequential 3D Human Pose and Shape Estimation From Point Clouds\", CVPR 2020. \[[https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Sequential_3D_Human_Pose_and_Shape_Estimation_From_Point_Clouds_CVPR_2020_paper.pdf pdf] \]  \[[https://arxiv.org/pdf/2007.05361.pdf code]\] 
 
 
