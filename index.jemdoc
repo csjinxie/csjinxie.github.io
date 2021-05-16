@@ -25,6 +25,7 @@ My research interests include
 [research.html Find out more]
 
 == Recent Publications 
+. Haobo Jiang, *Jin Xie*, Jianjun Qian and Jian Yang, \"Planning with Learned Dynamic Model for Unsupervised Point Cloud Registration\", IJCAI 2021. 
 . Haobo Jiang, *Jin Xie* and Jian Yang, \"Action Candidate Based Clipped Double Q-learning for Discrete and Continuous Action Tasks\", AAAI 2021. \[[pdf/AAAI21_Q-learning.pdf pdf]\]  \[[pdf/AAAI21_Q-learning_supp.pdf supp]\]
 . Mingmei Cheng, Le Hui, *Jin Xie* and Jian Yang, \"SSPC-Net: Semi-supervised Semantic 3D Point Cloud Segmentation Network\", AAAI 2021.  \[[pdf/AAAI21_SSPC-Net.pdf pdf]\]   
 . Le Hui, Rui Xu, *Jin Xie*, Jianjun Qian and Jian Yang, \"Progressive Point Cloud Deconvolution Generation Network\",  ECCV 2020. \[[https://arxiv.org/pdf/2007.05361.pdf arxiv]\]  \[[https://github.com/fpthink/PDGN code]\] 
