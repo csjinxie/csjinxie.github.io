@@ -24,7 +24,10 @@ My research interests include
 
 [research.html Find out more]
 
-== Recent Publications 
+== Recent Publications
+. Le Hui, Jia Yuan, Mingmei Cheng, *Jin Xie*, Xiaoya Zhang and Jian Yang, \"Superpoint Network for Point Cloud Oversegmetation\",  ICCV 2021. 
+. Le Hui, Hang Yang, Mingmei Cheng, *Jin Xie* and Jian Yang, \"Pyramid Point Cloud Transformer for Large-scale Place Recognition\",  ICCV 2021. 
+. Haobo Jiang, Yaqi Shen, *Jin Xie*, Jun Li, Jianjun Qian and Jian Yang, \"Sampling Network Guided Cross-entropy Method for Unsupervised Point Cloud Registration\", ICCV 2021.
 . Yifan Zhao, Le Hui and *Jin Xie*, \"SSPU-Net: Self-Supervised Point Cloud Upsampling via Differentiable Rendering\", ACM Multimedia 2021.
 . Haobo Jiang, *Jin Xie*, Jianjun Qian and Jian Yang, \"Planning with Learned Dynamic Model for Unsupervised Point Cloud Registration\", IJCAI 2021. 
 . Haobo Jiang, *Jin Xie* and Jian Yang, \"Action Candidate Based Clipped Double Q-learning for Discrete and Continuous Action Tasks\", AAAI 2021. \[[pdf/AAAI21_Q-learning.pdf pdf]\]  \[[pdf/AAAI21_Q-learning_supp.pdf supp]\]
